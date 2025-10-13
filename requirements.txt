@@ -1,0 +1,9 @@
+sumy
+scikit-learn
+python-docx
+streamlit
+PyPDF2
+python-docx
+# You can remove textract if you use only python-docx for .docx
+# textract
+nltk
