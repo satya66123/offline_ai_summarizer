@@ -191,7 +191,11 @@ This project is licensed under the MIT License.
 
 ## 📈 Project Stats
 
-![Top Language](https://img.shields.io/github/languages/top/satya66123/offline_ai_summarizer)
-![Code Size](https://img.shields.io/github/languages/code-size/satya66123/offline_ai_summarizer)
-![Repo Size](https://img.shields.io/github/repo-size/satya66123/offline_ai_summarizer)
-![Issues](https://img.shields.io/github/issues/satya66123/offline_ai_summarizer)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![Offline](https://img.shields.io/badge/Mode-Offline-purple)
+![NLP](https://img.shields.io/badge/AI-NLP-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/satya66123/offline_ai_summarizer)
+![GitHub Repo stars](https://img.shields.io/github/stars/satya66123/offline_ai_summarizer?style=social)
