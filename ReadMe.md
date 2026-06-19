@@ -1,17 +1,22 @@
-# Offline AI Summarizer
+# 🚀 Offline AI Summarizer
 
-An AI-powered document summarization application that works completely offline. Upload documents or paste text and generate concise summaries without sending your data to external servers.
+An AI-powered document summarization application that works completely offline.
 
-## Features
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![NLP](https://img.shields.io/badge/NLP-Text%20Summarization-orange)
+![Offline](https://img.shields.io/badge/Offline-100%25-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/satya66123/offline_ai_summarizer)
+![GitHub Repo stars](https://img.shields.io/github/stars/satya66123/offline_ai_summarizer?style=social)
 
-* 📄 Support for PDF, DOCX, and TXT files
-* ✍️ Direct text input summarization
-* 🔒 Fully offline processing
-* 🎯 Custom summary word limit
-* ⚡ Fast and lightweight Streamlit interface
-* 📚 Extracts key points from large documents
-* 🖥️ Simple and user-friendly UI
-* 🔐 Privacy-focused (no cloud dependency)
+### 📌 Features
+- PDF, DOCX, TXT Support
+- Raw Text Summarization
+- Adjustable Summary Length
+- Privacy-Focused Offline Processing
+- Streamlit Web Interface
+- Fast NLP-Based Summarization
 
 ---
 
@@ -181,3 +186,12 @@ LinkedIn: [Satya Srinath Nekkanti LinkedIn](https://www.linkedin.com/in/satya-sr
 This project is licensed under the MIT License.
 
 "Offline AI Summarizer: A Tool for Quick Document ..."
+
+---
+
+## 📈 Project Stats
+
+![Top Language](https://img.shields.io/github/languages/top/satya66123/offline_ai_summarizer)
+![Code Size](https://img.shields.io/github/languages/code-size/satya66123/offline_ai_summarizer)
+![Repo Size](https://img.shields.io/github/repo-size/satya66123/offline_ai_summarizer)
+![Issues](https://img.shields.io/github/issues/satya66123/offline_ai_summarizer)
